@@ -1,0 +1,4 @@
+D:\Package\cpp-btree-1.0.1\btree.h:107:21: fatal error: algorithm: No such file or directory
+ #include <algorithm>
+                     ^
+compilation terminated.
